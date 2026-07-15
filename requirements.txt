@@ -1,3 +1,4 @@
+-e git+https://github.com/gabrielmango/Amaterasu.git@84abe9cecc550e151ef615e933fa9421db6afe6c#egg=amaterasu
 black==22.1.0
 blue==0.9.1
 cfgv==3.5.0
