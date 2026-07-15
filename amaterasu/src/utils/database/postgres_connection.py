@@ -8,6 +8,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.sql.elements import TextClause
 
+
 class PostgresConnection:
     def __init__(self, connection_string: str):
         self.connection_string = connection_string
